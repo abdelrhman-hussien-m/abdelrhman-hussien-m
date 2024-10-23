@@ -12,11 +12,15 @@ I'm a passionate **front-end developer** dedicated to crafting responsive and us
 
 ### 🔧 Technologies & Tools I Use:
 - **Languages**: 
-  - 🖥️ **JavaScript**, **CSS**, **Java**
+  - 🖥️ **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - 🎨 **CSS** ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+  - ☕ **Java** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 - **Frameworks & Libraries**:
-  - ⚛️ **React** (learning)
+  - ⚛️ **React** (learning) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 - **Tools**: 
-  - 🛠️ **VS Code**, **Git**, **Chrome DevTools**
+  - 🛠️ **VS Code** 
+  - 🛠️ **Git** 
+  - 🛠️ **Chrome DevTools**
 
 ### 🔭 What I'm working on:
 - Building interactive **React** projects to improve my front-end skills
@@ -24,8 +28,9 @@ I'm a passionate **front-end developer** dedicated to crafting responsive and us
 - Experimenting with modern **JavaScript** patterns and best practices
 
 ### 📫 How to reach me:
-- [GitHub](https://github.com/abdelrhman-hussien-m) 
-- [LinkedIn](https://www.linkedin.com/in/abdelrhman-hussein-19231b332)
+- [GitHub](https://github.com/your-username) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+- [Twitter](https://twitter.com/your-twitter-handle) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)
 
 ### ⚡ Fun Facts:
 - I love solving coding challenges and continuously learning new web development trends. 
