@@ -1,22 +1,3 @@
-<h1 align="center" style="position: relative; display: inline-block; overflow: hidden; white-space: nowrap;">
-  <span style="display: inline-block; animation: slide-in 3s ease forwards;">
-    Working as Jonuir, Front-end Developer
-  </span>
-</h1>
-
-<style>
-@keyframes slide-in {
-  from {
-    transform: translateX(-100%);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-</style>
-
 
 ### 🚀 Front-end Developer in the Making
 
