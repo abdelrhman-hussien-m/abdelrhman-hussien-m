@@ -4,23 +4,17 @@
 
 I'm a passionate **front-end developer** dedicated to crafting responsive and user-friendly web applications. Currently, I'm diving deep into **React** and honing my **JavaScript** skills to bring dynamic user interfaces to life.
 
-### 🌱 Learning Journey:
-- 🌐 **React**: Building reusable components and mastering state management
-- 💻 **JavaScript**: Exploring ES6+ features and asynchronous programming
-- 🎨 **CSS**: Crafting beautiful, responsive designs
-- 🔥 **Java**: Keeping my back-end skills sharp
-
 ### 🔧 Technologies & Tools I Use:
 - **Languages**: 
-  - 🖥️ **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - 🎨 **CSS** ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-  - ☕ **Java** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)    ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+
 - **Frameworks & Libraries**:
-  - ⚛️ **React** (learning) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 - **Tools**: 
-  - 🛠️ **VS Code** 
-  - 🛠️ **Git** 
-  - 🛠️ **Chrome DevTools**
+- 🛠️ **VS Code** 
+- 🛠️ **Git** 
+- 🛠️ **Chrome DevTools**
 
 ### 🔭 What I'm working on:
 - Building interactive **React** projects to improve my front-end skills
@@ -28,9 +22,9 @@ I'm a passionate **front-end developer** dedicated to crafting responsive and us
 - Experimenting with modern **JavaScript** patterns and best practices
 
 ### 📫 How to reach me:
-- [GitHub](https://github.com/your-username) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
-- [Twitter](https://twitter.com/your-twitter-handle) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-username) 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) 
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle) 
 
 ### ⚡ Fun Facts:
 - I love solving coding challenges and continuously learning new web development trends. 
